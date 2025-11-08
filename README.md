@@ -1,21 +1,19 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+Having a solid foundation in various programming languages is essential for achieving different goals based on your specialization or field of work.
 
-{Provide a description of your software}
+I developed a simple memory game using the JavaScript programming language.
 
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+The purpose of this code is to reinforce the fundamentals of this programming language, including the use of the DOM and libraries that simplify code creation.
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I use many functions for the JavaScript code, to create de cards, find the matching pairs, and flip the cards when the player selects a card. I also use a library called Loadash, this tool helps me shuffle the cards every time the player starts the game.
 
 For this assignment I use the JavaScript Language
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Web Site Name](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries)
+* [Web Site Name](https://www.w3schools.com/js/js_intro.asp)
