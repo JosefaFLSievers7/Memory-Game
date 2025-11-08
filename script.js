@@ -13,7 +13,7 @@ const cards = [...symbols, ...symbols];
 let matchedCards = [];
 let flippedCards = [];
 
-// Shuffle function using Lodash (Library)
+// Shuffle function using Lodash
 const shuffleCards = (array) => _.shuffle(array);
 
 // Initialize game fuction to set up the memory game
