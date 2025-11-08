@@ -60,7 +60,9 @@ const checkMatchingPairs = () => {
             card.classList.remove('flipped');
         });
     }
+    
     flippedCards = [];
+    
 };
 
 // Function to flip the card
